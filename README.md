@@ -3,7 +3,7 @@
 Can't resolve 'react-refresh/runtime' when using swc for react in rsbuild with tanstack and hmr off.
 
 ## Error
-
+```
 File: ./src/routes/__root.tsx:58:1-90
   × Module not found: Can't resolve 'react-refresh/runtime' in 'C:\git\swc-repro2\src\routes'
     ╭─[58:0]
@@ -20,7 +20,7 @@ Import traces (entry → error):
   … (5 hidden)
   ./src/routeTree.gen.ts
   ./src/routes/__root.tsx ×
-
+```
 ## Workaround
 
 Install react-refresh
