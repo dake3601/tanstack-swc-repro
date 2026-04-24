@@ -17,7 +17,7 @@ export default defineConfig(
     plugins: [tanstackStart({})],
 
     dev: {
-      hmr: true,
+      hmr: false,
       liveReload: true,
     },
 
