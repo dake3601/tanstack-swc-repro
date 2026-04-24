@@ -24,3 +24,5 @@ Import traces (entry → error):
 ## Workaround
 
 Install react-refresh
+
+<img width="1301" height="1096" alt="image" src="https://github.com/user-attachments/assets/9a608445-f747-4d95-b40d-bb087051634d" />
